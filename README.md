@@ -39,10 +39,12 @@ $ npx expo start -c  (to start the application - cleaning Cache Memory)
 <img src="./IMAGES/LOGINPAGE01.jpg" alt="project screenshot01" />
 <img src="./IMAGES/SIGNUPPAGE02.jpg" alt="project screenshot02" />
 <img src="./IMAGES/DASHBOARDPAGE03.jpg" alt="project screenshot03" />
+<img src="./IMAGES/PRODUCTBYCATEGORYPAGE08.jpg" alt="project screenshot08" />
 <img src="./IMAGES/CARTPAGE04.jpg" alt="project screenshot04" />
 <img src="./IMAGES/CHECKOUTPAGE05.jpg" alt="project screenshot05" />
 <img src="./IMAGES/PROFILEPAGE06.jpg" alt="project screenshot06" />
 <img src="./IMAGES/PRODUCTDETAILSPAGE07.jpg" alt="project screenshot07" />
+
 <br>
 
 ##  Key Features:
